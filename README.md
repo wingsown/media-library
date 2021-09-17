@@ -1,1 +1,1 @@
-# Media Libraray
+# Media Library
